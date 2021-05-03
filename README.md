@@ -5,6 +5,7 @@
 
 * After you search for a city, the city will be saved in localstorage so you can click on the city in the list and be brought back to that forecast.
 
-1. You can click on the city to pull the resutls again.
-2. You can clear the search history using the "clear history" button.
+1. You can click on the city to pull the results again.
+2. Refreshing the page will not clear the results.
+3. You can clear the search history using the "clear history" button.
 
